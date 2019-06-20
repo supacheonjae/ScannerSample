@@ -58,6 +58,7 @@
 		BD4497D422BB142200B3B26B = {
 			isa = PBXGroup;
 			children = (
+				BD76CE9522BB2B2C00ED9706 /* README.md */,
 				BD4497DF22BB142200B3B26B /* ScannerSample */,
 				BD4497DE22BB142200B3B26B /* Products */,
 				DF8B90E160A0D2FFBBA8F8AB /* Pods */,
@@ -84,7 +85,6 @@
 				BD4497E722BB142300B3B26B /* Assets.xcassets */,
 				BD4497E922BB142300B3B26B /* LaunchScreen.storyboard */,
 				BD4497EC22BB142300B3B26B /* Info.plist */,
-				BD76CE9522BB2B2C00ED9706 /* README.md */,
 			);
 			path = ScannerSample;
 			sourceTree = "<group>";
