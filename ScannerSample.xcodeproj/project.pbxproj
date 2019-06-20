@@ -28,6 +28,7 @@
 		BD4497E722BB142300B3B26B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD4497EA22BB142300B3B26B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD4497EC22BB142300B3B26B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD76CE9522BB2B2C00ED9706 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BDBBFDD622BB1F7800EB28DD /* OverlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverlayView.swift; sourceTree = "<group>"; };
 		BDBBFDD822BB1F9E00EB28DD /* OverlayView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OverlayView.xib; sourceTree = "<group>"; };
 		BDC7376222BB1A2D00E9224D /* Scanner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scanner.swift; sourceTree = "<group>"; };
@@ -83,6 +84,7 @@
 				BD4497E722BB142300B3B26B /* Assets.xcassets */,
 				BD4497E922BB142300B3B26B /* LaunchScreen.storyboard */,
 				BD4497EC22BB142300B3B26B /* Info.plist */,
+				BD76CE9522BB2B2C00ED9706 /* README.md */,
 			);
 			path = ScannerSample;
 			sourceTree = "<group>";
